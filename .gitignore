@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Node.js
+node_modules/
+package-lock.json
+
+# IDEs
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Nested Git repos
+my-chat-app/
+nest-chat/
